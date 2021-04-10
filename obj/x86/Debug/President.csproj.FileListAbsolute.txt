@@ -1,0 +1,121 @@
+C:\Users\boazf.NX\Desktop\president 1-6\President\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\boazf.NX\Desktop\president 1-6\President\obj\x86\Debug\President.Card.resources
+C:\Users\boazf.NX\Desktop\president 1-6\President\obj\x86\Debug\President.ComputerHand.resources
+C:\Users\boazf.NX\Desktop\president 1-6\President\obj\x86\Debug\President.UI_Elements.SplashScreen.resources
+C:\Users\boazf.NX\Desktop\president 1-6\President\obj\x86\Debug\President.UI_Elements.GameBoard.resources
+C:\Users\boazf.NX\Desktop\president 1-6\President\obj\x86\Debug\President.HandBase.resources
+C:\Users\boazf.NX\Desktop\president 1-6\President\obj\x86\Debug\President.Images.resources
+C:\Users\boazf.NX\Desktop\president 1-6\President\obj\x86\Debug\President.Properties.Resources.resources
+C:\Users\boazf.NX\Desktop\president 1-6\President\obj\x86\Debug\President.KupaUI.resources
+C:\Users\boazf.NX\Desktop\president 1-6\President\obj\x86\Debug\President.PlayerHand.resources
+C:\Users\boazf.NX\Desktop\president 1-6\President\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\boazf.NX\Desktop\president 1-6\President\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\boazf.NX\Desktop\president 1-6\President\obj\x86\Debug\President.UI_Elements.Instructions.resources
+C:\Users\boazf.NX\Desktop\president 1-6\President\bin\Debug\President.exe
+C:\Users\boazf.NX\Desktop\president 1-6\President\bin\Debug\President.pdb
+C:\Users\boazf.NX\Desktop\president 1-6\President\obj\x86\Debug\President.exe
+C:\Users\boazf.NX\Desktop\president 1-6\President\obj\x86\Debug\President.pdb
+C:\Users\Yaniv\Desktop\president 1-6\President\obj\x86\Debug\President.exe
+C:\Users\Yaniv\Desktop\president 1-6\President\obj\x86\Debug\President.pdb
+C:\Users\Yaniv\Desktop\president 1-6\President\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Yaniv\Desktop\president 1-6\President\obj\x86\Debug\President.Card.resources
+C:\Users\Yaniv\Desktop\president 1-6\President\obj\x86\Debug\President.ComputerHand.resources
+C:\Users\Yaniv\Desktop\president 1-6\President\obj\x86\Debug\President.UI_Elements.Instructions.resources
+C:\Users\Yaniv\Desktop\president 1-6\President\obj\x86\Debug\President.UI_Elements.GameBoard.resources
+C:\Users\Yaniv\Desktop\president 1-6\President\obj\x86\Debug\President.Images.resources
+C:\Users\Yaniv\Desktop\president 1-6\President\obj\x86\Debug\President.Properties.Resources.resources
+C:\Users\Yaniv\Desktop\president 1-6\President\obj\x86\Debug\President.KupaUI.resources
+C:\Users\Yaniv\Desktop\president 1-6\President\obj\x86\Debug\President.PlayerHand.resources
+C:\Users\Yaniv\Desktop\president 1-6\President\obj\x86\Debug\President.UI_Elements.SplashScreen.resources
+C:\Users\Yaniv\Desktop\president 1-6\President\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Yaniv\Desktop\president 1-6\President\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Yaniv\Desktop\president 1-6\President\bin\Debug\President.exe
+C:\Users\Yaniv\Desktop\president 1-6\President\bin\Debug\President.pdb
+C:\Users\Yaniv\Dropbox\Shared Folder\president 1-6\President\obj\x86\Debug\President.exe
+C:\Users\Yaniv\Dropbox\Shared Folder\president 1-6\President\obj\x86\Debug\President.pdb
+C:\Users\Yaniv\Dropbox\Shared Folder\president 1-6\President\bin\Debug\President.exe
+C:\Users\Yaniv\Dropbox\Shared Folder\president 1-6\President\bin\Debug\President.pdb
+C:\Users\Yaniv\Dropbox\Shared Folder\president 1-6\President\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Yaniv\Dropbox\Shared Folder\president 1-6\President\obj\x86\Debug\President.Card.resources
+C:\Users\Yaniv\Dropbox\Shared Folder\president 1-6\President\obj\x86\Debug\President.ComputerHand.resources
+C:\Users\Yaniv\Dropbox\Shared Folder\president 1-6\President\obj\x86\Debug\President.UI_Elements.Instructions.resources
+C:\Users\Yaniv\Dropbox\Shared Folder\president 1-6\President\obj\x86\Debug\President.UI_Elements.GameBoard.resources
+C:\Users\Yaniv\Dropbox\Shared Folder\president 1-6\President\obj\x86\Debug\President.Images.resources
+C:\Users\Yaniv\Dropbox\Shared Folder\president 1-6\President\obj\x86\Debug\President.Properties.Resources.resources
+C:\Users\Yaniv\Dropbox\Shared Folder\president 1-6\President\obj\x86\Debug\President.KupaUI.resources
+C:\Users\Yaniv\Dropbox\Shared Folder\president 1-6\President\obj\x86\Debug\President.PlayerHand.resources
+C:\Users\Yaniv\Dropbox\Shared Folder\president 1-6\President\obj\x86\Debug\President.UI_Elements.SplashScreen.resources
+C:\Users\Yaniv\Dropbox\Shared Folder\president 1-6\President\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Yaniv\Dropbox\Shared Folder\president 1-6\President\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Yaniv\Dropbox\Shared Folder\president 1-7\President\obj\x86\Debug\President.exe
+C:\Users\Yaniv\Dropbox\Shared Folder\president 1-7\President\obj\x86\Debug\President.pdb
+C:\Users\Yaniv\Dropbox\Shared Folder\president 1-7\President\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Yaniv\Dropbox\Shared Folder\president 1-7\President\obj\x86\Debug\President.Card.resources
+C:\Users\Yaniv\Dropbox\Shared Folder\president 1-7\President\obj\x86\Debug\President.ComputerHand.resources
+C:\Users\Yaniv\Dropbox\Shared Folder\president 1-7\President\obj\x86\Debug\President.UI_Elements.Instructions.resources
+C:\Users\Yaniv\Dropbox\Shared Folder\president 1-7\President\obj\x86\Debug\President.UI_Elements.GameBoard.resources
+C:\Users\Yaniv\Dropbox\Shared Folder\president 1-7\President\obj\x86\Debug\President.Properties.Resources.resources
+C:\Users\Yaniv\Dropbox\Shared Folder\president 1-7\President\obj\x86\Debug\President.KupaUI.resources
+C:\Users\Yaniv\Dropbox\Shared Folder\president 1-7\President\obj\x86\Debug\President.PlayerHand.resources
+C:\Users\Yaniv\Dropbox\Shared Folder\president 1-7\President\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Yaniv\Dropbox\Shared Folder\president 1-7\President\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Yaniv\Dropbox\Shared Folder\president 1-7\President\obj\x86\Debug\President.Images.resources
+C:\Users\Yaniv\Dropbox\Shared Folder\president 1-7\President\bin\Debug\President.exe
+C:\Users\Yaniv\Dropbox\Shared Folder\president 1-7\President\bin\Debug\President.pdb
+D:\Documents\Dropbox\Shared Folder\president 1-7\President\obj\x86\Debug\President.exe
+D:\Documents\Dropbox\Shared Folder\president 1-7\President\obj\x86\Debug\President.pdb
+C:\Users\boazf.NX\Desktop\president 1-7\President\obj\x86\Debug\President.exe
+C:\Users\boazf.NX\Desktop\president 1-7\President\obj\x86\Debug\President.pdb
+C:\Users\boazf.NX\Desktop\president 1-7\President\bin\Debug\President.exe
+C:\Users\boazf.NX\Desktop\president 1-7\President\bin\Debug\President.pdb
+C:\Users\boazf.NX\Desktop\president 1-7\President\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\boazf.NX\Desktop\president 1-7\President\obj\x86\Debug\President.Card.resources
+C:\Users\boazf.NX\Desktop\president 1-7\President\obj\x86\Debug\President.ComputerHand.resources
+C:\Users\boazf.NX\Desktop\president 1-7\President\obj\x86\Debug\President.UI_Elements.Instructions.resources
+C:\Users\boazf.NX\Desktop\president 1-7\President\obj\x86\Debug\President.UI_Elements.GameBoard.resources
+C:\Users\boazf.NX\Desktop\president 1-7\President\obj\x86\Debug\President.Images.resources
+C:\Users\boazf.NX\Desktop\president 1-7\President\obj\x86\Debug\President.Properties.Resources.resources
+C:\Users\boazf.NX\Desktop\president 1-7\President\obj\x86\Debug\President.KupaUI.resources
+C:\Users\boazf.NX\Desktop\president 1-7\President\obj\x86\Debug\President.PlayerHand.resources
+C:\Users\boazf.NX\Desktop\president 1-7\President\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\boazf.NX\Desktop\president 1-7\President\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\boazf.NX\Desktop\president 1-7\President\obj\x86\Debug\President.UI_Elements.GameMenu.resources
+C:\Users\boazf.NX\Desktop\president 1-7\President\obj\x86\Debug\President.UI_Elements.GameMenu_.resources
+C:\Users\Yaniv\Desktop\president 1-7\President\obj\x86\Debug\President.exe
+C:\Users\Yaniv\Desktop\president 1-7\President\obj\x86\Debug\President.pdb
+C:\Users\Yaniv\Desktop\president 1-7\President\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Yaniv\Desktop\president 1-7\President\obj\x86\Debug\President.Card.resources
+C:\Users\Yaniv\Desktop\president 1-7\President\obj\x86\Debug\President.ComputerHand.resources
+C:\Users\Yaniv\Desktop\president 1-7\President\obj\x86\Debug\President.UI_Elements.Instructions.resources
+C:\Users\Yaniv\Desktop\president 1-7\President\obj\x86\Debug\President.UI_Elements.GameBoard.resources
+C:\Users\Yaniv\Desktop\president 1-7\President\obj\x86\Debug\President.Properties.Resources.resources
+C:\Users\Yaniv\Desktop\president 1-7\President\obj\x86\Debug\President.KupaUI.resources
+C:\Users\Yaniv\Desktop\president 1-7\President\obj\x86\Debug\President.UI_Elements.GameMenu_.resources
+C:\Users\Yaniv\Desktop\president 1-7\President\obj\x86\Debug\President.PlayerHand.resources
+C:\Users\Yaniv\Desktop\president 1-7\President\obj\x86\Debug\President.UI_Elements.GameMenu.resources
+C:\Users\Yaniv\Desktop\president 1-7\President\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Yaniv\Desktop\president 1-7\President\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Yaniv\Desktop\president 1-7\President\bin\Debug\President.exe
+C:\Users\Yaniv\Desktop\president 1-7\President\bin\Debug\President.pdb
+C:\Users\Yaniv\Desktop\president 1-7\President\obj\x86\Debug\President.Images.resources
+C:\Users\Yaniv\Dropbox\Shared Folder\president 1-7\President\obj\x86\Debug\President.UI_Elements.GameMenu_.resources
+C:\Users\Yaniv\Dropbox\Shared Folder\president 1-7\President\obj\x86\Debug\President.UI_Elements.GameMenu.resources
+C:\Users\Yaniv\Dropbox\president\president 1-7\President\obj\x86\Debug\President.exe
+C:\Users\Yaniv\Dropbox\president\president 1-7\President\obj\x86\Debug\President.pdb
+C:\Users\yanivs\Documents\Yaniv2\Coding Projects\President\President\obj\x86\Debug\President.csprojAssemblyReference.cache
+C:\Users\yanivs\Documents\Yaniv2\Coding Projects\President\President\obj\x86\Debug\President.Card.resources
+C:\Users\yanivs\Documents\Yaniv2\Coding Projects\President\President\obj\x86\Debug\President.ComputerHand.resources
+C:\Users\yanivs\Documents\Yaniv2\Coding Projects\President\President\obj\x86\Debug\President.UI_Elements.Instructions.resources
+C:\Users\yanivs\Documents\Yaniv2\Coding Projects\President\President\obj\x86\Debug\President.UI_Elements.GameBoard.resources
+C:\Users\yanivs\Documents\Yaniv2\Coding Projects\President\President\obj\x86\Debug\President.Properties.Resources.resources
+C:\Users\yanivs\Documents\Yaniv2\Coding Projects\President\President\obj\x86\Debug\President.KupaUI.resources
+C:\Users\yanivs\Documents\Yaniv2\Coding Projects\President\President\obj\x86\Debug\President.UI_Elements.GameMenu_.resources
+C:\Users\yanivs\Documents\Yaniv2\Coding Projects\President\President\obj\x86\Debug\President.PlayerHand.resources
+C:\Users\yanivs\Documents\Yaniv2\Coding Projects\President\President\obj\x86\Debug\President.UI_Elements.GameMenu.resources
+C:\Users\yanivs\Documents\Yaniv2\Coding Projects\President\President\obj\x86\Debug\President.csproj.GenerateResource.cache
+C:\Users\yanivs\Documents\Yaniv2\Coding Projects\President\President\obj\x86\Debug\President.exe
+C:\Users\yanivs\Documents\Yaniv2\Coding Projects\President\President\obj\x86\Debug\President.pdb
+C:\Users\yanivs\Documents\Yaniv2\Coding Projects\President\President\bin\Debug\President.exe
+C:\Users\yanivs\Documents\Yaniv2\Coding Projects\President\President\bin\Debug\President.pdb
+C:\Users\yanivs\Documents\Yaniv2\Coding Projects\President\President\obj\x86\Debug\President.Images.resources
+C:\Users\yanivs\Documents\Yaniv2\Coding Projects\President\President\obj\x86\Debug\President.csproj.CoreCompileInputs.cache
